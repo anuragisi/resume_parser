@@ -3,4 +3,5 @@
 Objective:
 1. Parsed resumes to extract skills, experience, and education
 2. Made the parsing into standard JSON output
-3. Built an interactive Dashboard for recruiters
+
+TODO: Built an interactive Dashboard for recruiters
