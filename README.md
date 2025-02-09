@@ -1,1 +1,1 @@
-# resume_parser
+# Automated Resume Parser using LLM
